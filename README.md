@@ -11,7 +11,7 @@ our data set in these conditions, we were able to apply transformations to an ex
 
 **Dataset**
 
-The data used for this project was the M1RICLEvc1 dataset.
+The data used for this project was the M1RICLvc1 dataset.
 The data set contains 10 speakers each saying a collection of 10 words, 10 times each. The data set is cited below with a downloadable kaggle access as well. 
 
 Rekik, Ahmed, Achraf Ben-Hamadou, and Walid Mahdi. "A New Visual Speech Recognition Approach for RGB-D Cameras." Image Analysis and Recognition - 11th International Conference, ICIAR 2014, Vilamoura, Portugal, October 22-24, 2014, 2014, pp. 21-28.
