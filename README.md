@@ -38,6 +38,7 @@ Model.ipynb which contains our best-performing model.
 
 
 **Additional References**
+
 Data loading and cropping are significantly influenced by this post
 https://www.kaggle.com/code/boisbois/final-final-code-clean
 
